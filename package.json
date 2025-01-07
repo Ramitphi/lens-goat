@@ -1,0 +1,35 @@
+{
+  "name": "lens-goat",
+  "version": "0.1.1",
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "package.json"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "clean": "rm -rf dist",
+    "test": "vitest run --passWithNoTests"
+  },
+  "sideEffects": false,
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "dependencies": {
+    "@goat-sdk/core": "0.4.4",
+    "@goat-sdk/wallet-evm": "0.2.4",
+    "tsup": "^8.3.5",
+    "viem": "2.22.2",
+    "zod": "latest"
+  },
+  "peerDependencies": {
+    "@goat-sdk/core": "0.4.4"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "agents",
+    "web3",
+    "lens"
+  ]
+}

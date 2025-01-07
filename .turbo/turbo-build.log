@@ -1,0 +1,72 @@
+Debugger attached.
+
+> @goat-sdk/plugin-lens@0.1.1 build /Users/ramit/work/lens_goat/lens-plugin/typescript/packages/plugins/lens
+> tsup
+
+Debugger attached.
+CLI Building entry: src/abi.ts, src/index.ts, src/lens.plugin.ts, src/lens.service.ts, src/parameters.ts, src/utils/lens.query.ts
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.3.5
+CLI Using tsup config: /Users/ramit/work/lens_goat/lens-plugin/typescript/packages/plugins/lens/tsup.config.ts
+CLI Target: es2022
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/abi.mjs                  633.00 B
+ESM dist/index.mjs                221.00 B
+ESM dist/lens.plugin.mjs          227.00 B
+ESM dist/chunk-RXVIDXAS.mjs       575.00 B
+ESM dist/lens.service.mjs         183.00 B
+ESM dist/chunk-KXJ6YRFD.mjs       6.64 KB
+ESM dist/parameters.mjs           596.00 B
+ESM dist/chunk-WHSGPUN2.mjs       1.87 KB
+ESM dist/utils/lens.query.mjs     347.00 B
+ESM dist/chunk-PAWJFY3S.mjs       194.00 B
+ESM dist/abi.mjs.map              768.00 B
+ESM dist/lens.plugin.mjs.map      71.00 B
+ESM dist/index.mjs.map            71.00 B
+ESM dist/lens.service.mjs.map     71.00 B
+ESM dist/parameters.mjs.map       71.00 B
+ESM dist/chunk-WHSGPUN2.mjs.map   3.17 KB
+ESM dist/chunk-PAWJFY3S.mjs.map   71.00 B
+ESM dist/utils/lens.query.mjs.map 392.00 B
+ESM dist/chunk-RXVIDXAS.mjs.map   758.00 B
+ESM dist/chunk-KXJ6YRFD.mjs.map   8.13 KB
+ESM ⚡️ Build success in 446ms
+CJS dist/abi.js                  730.00 B
+CJS dist/lens.plugin.js          357.00 B
+CJS dist/lens.service.js         288.00 B
+CJS dist/chunk-ULTAQO5H.js       876.00 B
+CJS dist/chunk-EK4JF3E3.js       6.98 KB
+CJS dist/chunk-45MS4XQS.js       2.57 KB
+CJS dist/index.js                351.00 B
+CJS dist/utils/lens.query.js     429.00 B
+CJS dist/parameters.js           868.00 B
+CJS dist/chunk-7QVYU63E.js       272.00 B
+CJS dist/abi.js.map              1.04 KB
+CJS dist/lens.plugin.js.map      339.00 B
+CJS dist/chunk-ULTAQO5H.js.map   1.23 KB
+CJS dist/lens.service.js.map     318.00 B
+CJS dist/chunk-EK4JF3E3.js.map   9.25 KB
+CJS dist/index.js.map            327.00 B
+CJS dist/utils/lens.query.js.map 709.00 B
+CJS dist/chunk-45MS4XQS.js.map   4.35 KB
+CJS dist/parameters.js.map       372.00 B
+CJS dist/chunk-7QVYU63E.js.map   436.00 B
+CJS ⚡️ Build success in 499ms
+DTS Build start
+DTS ⚡️ Build success in 3474ms
+DTS dist/abi.d.mts              2.06 KB
+DTS dist/lens.service.d.mts     1.13 KB
+DTS dist/parameters.d.mts       4.39 KB
+DTS dist/utils/lens.query.d.mts 269.00 B
+DTS dist/lens.plugin.d.mts      309.00 B
+DTS dist/index.d.mts            79.00 B
+DTS dist/abi.d.ts               2.06 KB
+DTS dist/lens.service.d.ts      1.13 KB
+DTS dist/parameters.d.ts        4.39 KB
+DTS dist/utils/lens.query.d.ts  269.00 B
+DTS dist/lens.plugin.d.ts       309.00 B
+DTS dist/index.d.ts             78.00 B
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
