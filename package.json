@@ -1,6 +1,6 @@
 {
   "name": "lens-goat",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "files": [
     "dist/**/*",
     "README.md",
@@ -31,5 +31,8 @@
     "agents",
     "web3",
     "lens"
-  ]
+  ],
+  "description": "Lens plugin for [Goat 🐐](https://ohmygoat.dev). Allows you to fetch the wallet address of lens creator based on their post",
+  "devDependencies": {},
+  "author": ""
 }
